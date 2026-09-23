@@ -1,4 +1,7 @@
 # ml-algorithm-comparison
+
+>  The full codebase isn't published here, since it was submitted as academic coursework
+
 ## Overview
 
 A C++ pipeline built from scratch to compare four classification algorithms — uniform KNN, Gaussian-weighted KNN, decision trees, and multiclass SVM — across two datasets of very different scale and complexity: the Iris dataset and the NIST handwritten digit database. Each model was evaluated using 5-fold cross-validation, with confusion matrices and per-class precision/recall reviewed alongside overall accuracy.
