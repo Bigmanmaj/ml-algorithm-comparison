@@ -1,6 +1,6 @@
 # ml-algorithm-comparison
 
-> This was my final year university project. The full codebase isn't published here, since it was submitted as academic coursework, but the project's design, implementation and results are summarized below. Happy to talk through any part of it further.
+> This was my final year university project. The full codebase isn't published here, since it was submitted as academic coursework, but the project's design, implementation and results are summarized below.
 
 ## Overview
 
